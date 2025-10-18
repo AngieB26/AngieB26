@@ -36,6 +36,7 @@
 #### 🗃️ Bases de datos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
 </p>
 
 #### 🎨 Diseño y creatividad
