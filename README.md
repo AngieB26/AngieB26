@@ -23,7 +23,3 @@
 
 ## 📊 Estadísticas de GitHub
 ![Angie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AngieB26&show_icons=true&theme=tokyonight)
-
----
-
-✨ *“La creatividad y la lógica pueden trabajar juntas para construir cosas increíbles.”*  
