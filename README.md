@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnp5enFhbXYwdnVmaDVxemo3MnYxOHZrdDJpbXZxNnVqbXBodmxpMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/6xNz1sIh6FmOxHuboJ/giphy.gif" width="200"/>
+</p>
+
 <h1 align="center">🌸 ¡Hola, soy Angelina Barrientos! 💻</h1>
 
 <p align="center">
@@ -8,11 +12,11 @@
 ---
 
 ### 🧁 Sobre mí
-- 💡 Me encanta aprender cosas nuevas (¡sobre todo de tecnología y diseño!)
+- 💡 Me encanta aprender cosas nuevas
 - ☕ Fan del café y los proyectos creativos  
 - 💻 Actualmente explorando **Java**, **Spring Boot** y **Angular** 
 - 🎨 Amante de las interfaces bonitas y funcionales  
-- 🐱 En mis ratos libres, me gusta escuchar música y dibujar  
+- 🐱 En mis ratos libres, me gusta escuchar música, ver series y jugar con amigos  
 
 ---
 
