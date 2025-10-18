@@ -18,19 +18,24 @@
 
 ### 💕 Mis habilidades
 
-#### 🌸 Lenguajes de programación
+#### 💻 Lenguajes de programación
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css" />
 </p>
 
 #### 🍃 Frameworks y librerías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react" />
+  <img src="https://skillicons.dev/icons?i=spring,flutter" />
 </p>
 
 #### 💼 Herramientas de desarrollo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea,postman" />
+</p>
+
+#### 🗃️ Bases de datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,firebase" />
 </p>
 
 #### 🎨 Diseño y creatividad
