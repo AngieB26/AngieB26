@@ -20,7 +20,7 @@
 
 #### 💻 Lenguajes de programación
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cs,html,css" />
 </p>
 
 #### 🍃 Frameworks y librerías
