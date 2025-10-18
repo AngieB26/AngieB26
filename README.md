@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnp5enFhbXYwdnVmaDVxemo3MnYxOHZrdDJpbXZxNnVqbXBodmxpMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/6xNz1sIh6FmOxHuboJ/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnp5enFhbXYwdnVmaDVxemo3MnYxOHZrdDJpbXZxNnVqbXBodmxpMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/6xNz1sIh6FmOxHuboJ/giphy.gif" width="150"/>
 </p>
 
 <h1 align="center">🌸 ¡Hola, soy Angelina Barrientos! 💻</h1>
