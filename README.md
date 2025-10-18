@@ -53,9 +53,3 @@
   <a href="mailto:angelina.barrientos@example.com">📧 Correo</a> · 
   <a href="https://angieb26.github.io/">🌐 Portafolio</a>
 </p>
-
----
-
-<p align="center">
-  ✨ *“El código también puede ser arte.”* 💫  
-</p>
