@@ -1,25 +1,61 @@
-# 👋 ¡Hola, soy Angelina Barrientos!
+<h1 align="center">🌸 ¡Hola, soy Angelina Barrientos! 💻</h1>
 
-💡 Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC**.  
-
----
-
-## 🚀 Sobre mí
-- 🎓 Actualmente en el **6to ciclo** de la carrera  
-- 💻 Me gusta aprender sobre **desarrollo web, inteligencia artificial y bases de datos**  
-- 🌱 Estoy mejorando mis habilidades en **Java**, **Python**, y **Spring Boot**  
-- 🎨 También disfruto el **diseño de interfaces** y la **experiencia de usuario (UX/UI)**  
+<p align="center">
+  <em>Estudiante de Ingeniería de Sistemas de Información en la UPC 🌼<br>
+  Me gusta mucho el diseño y crear cosas bonitas con código ✨</em>
+</p>
 
 ---
 
-## 🛠️ Tecnologías que uso
-| Lenguajes | Frameworks / Herramientas | Otros |
-|------------|---------------------------|--------|
-| Java ☕ | Spring Boot 🌱 | Git & GitHub 🧭 |
-| Python 🐍 | Tkinter 🎨 | SQL 🗃️ |
-| HTML / CSS / JS 🌐 | Angular ⚛️ | Figma 🎨 |
+### 🧁 Sobre mí
+- 💡 Me encanta aprender cosas nuevas (¡sobre todo de tecnología y diseño!)
+- ☕ Fan del café y los proyectos creativos  
+- 💻 Actualmente explorando **Java**, **Spring Boot** y **Angular** 
+- 🎨 Amante de las interfaces bonitas y funcionales  
+- 🐱 En mis ratos libres, me gusta escuchar música y dibujar  
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Angie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AngieB26&show_icons=true&theme=tokyonight)
+### 💕 Mis habilidades
+
+#### 🌸 Lenguajes de programación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript" />
+</p>
+
+#### 🍃 Frameworks y librerías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react" />
+</p>
+
+#### 💼 Herramientas de desarrollo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" />
+</p>
+
+#### 🎨 Diseño y creatividad
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+---
+
+### 🌷 Mis estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngieB26&show_icons=true&theme=rose_pine" alt="Estadísticas de GitHub de Angie" />
+</p>
+
+---
+
+### 🌼 Conéctate conmigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">💼 LinkedIn</a> · 
+  <a href="mailto:angelina.barrientos@example.com">📧 Correo</a> · 
+  <a href="https://angieb26.github.io/">🌐 Portafolio</a>
+</p>
+
+---
+
+<p align="center">
+  ✨ *“El código también puede ser arte.”* 💫  
+</p>
