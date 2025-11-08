@@ -60,7 +60,7 @@
 
 ### 🌼 Conéctate conmigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">💼 LinkedIn</a> · 
+  <a href="https://www.linkedin.com/in/angelina-barrientos-a57a09395" target="_blank">💼 LinkedIn</a> · 
   <a href="mailto:angelina.barrientos.01@gmail.com">📧 Correo</a> · 
   <a href="https://angieb26.github.io/">🌐 Portafolio</a>
 </p>
