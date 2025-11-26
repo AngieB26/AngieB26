@@ -53,7 +53,10 @@
 
 ### 🌷 Mis estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngieB26&show_icons=true&theme=rose_pine" alt="Estadísticas de GitHub de Angie" />
+  <img 
+    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=AngieB26&show_icons=true&theme=rose_pine" 
+    alt="Estadísticas de GitHub de Angie" 
+  />
 </p>
 
 ---
