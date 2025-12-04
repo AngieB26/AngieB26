@@ -51,16 +51,6 @@
 
 ---
 
-### 🌷 Mis estadísticas
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=AngieB26&show_icons=true&theme=rose_pine" 
-    alt="Estadísticas de GitHub de Angie" 
-  />
-</p>
-
----
-
 ### 🌼 Conéctate conmigo
 <p align="center">
   <a href="https://www.linkedin.com/in/angelina-barrientos-a57a09395" target="_blank">💼 LinkedIn</a> · 
