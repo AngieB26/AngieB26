@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnp5enFhbXYwdnVmaDVxemo3MnYxOHZrdDJpbXZxNnVqbXBodmxpMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/6xNz1sIh6FmOxHuboJ/giphy.gif" width="150"/>
 </p>
 
-<h1 align="center">🌸 ¡Hola, soy Angie! 💻</h1>
+<h1 align="center">🌸 ¡Hola, soy Angelina! 💻</h1>
 
 <p align="center">
   <em>Estudiante de 6to ciclo de la carrera de Ingeniería de Sistemas de Información en la UPC 🌼<br>
