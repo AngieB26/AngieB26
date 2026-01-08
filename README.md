@@ -14,10 +14,10 @@
 ### 🧁 Sobre mí
 - 💡 Me encanta aprender cosas nuevas
 - ☕ Fan del café y los proyectos creativos  
-- 💻 Actualmente explorando **Java**, **Spring Boot** y **Angular** 
+- 🤖 Actualmente explorando la **integración de APIs de Inteligencia Artificial**
 - 🎨 Amante de las interfaces bonitas y funcionales  
-- 🐱 En mis ratos libres, me gusta escuchar música, ver series y jugar con amigos  
-
+- 🐱 En mis ratos libres, me gusta escuchar música, ver series y jugar con amigos
+  
 ---
 
 ### 💕 Mis habilidades
