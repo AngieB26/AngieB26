@@ -44,6 +44,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
 </p>
 
+#### ☁️ Deploy & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,aws" />
+</p>
+
 #### 🎨 Diseño y creatividad
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" />
