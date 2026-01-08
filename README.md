@@ -52,6 +52,7 @@
 #### 🎨 Diseño y creatividad
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=miro" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
 </p>
 
