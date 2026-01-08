@@ -29,8 +29,9 @@
 
 #### 🍃 Frameworks y librerías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,angular,spring,flutter" />
 </p>
+
 
 #### 💼 Herramientas de desarrollo
 <p align="center">
