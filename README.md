@@ -51,9 +51,9 @@
 
 #### 🎨 Diseño y creatividad
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/miro/miro-original.svg" width="48" height="48" alt="Miro" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/miro/miro-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" />
 </p>
 
 ---
