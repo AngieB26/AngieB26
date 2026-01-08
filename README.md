@@ -51,8 +51,7 @@
 
 #### 🎨 Diseño y creatividad
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" />
-    <img src="https://skillicons.dev/icons?i=miro" />
+  <img src="https://skillicons.dev/icons?i=figma,miro" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
 </p>
 
@@ -62,5 +61,4 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/angelina-barrientos-a57a09395" target="_blank">💼 LinkedIn</a> · 
   <a href="mailto:angelina.barrientos.01@gmail.com">📧 Correo</a> · 
-  <a href="https://angieb26.github.io/">🌐 Portafolio</a>
 </p>
