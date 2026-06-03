@@ -5,7 +5,7 @@
 <h1 align="center">🌸 ¡Hola, soy Angelina! 💻</h1>
 
 <p align="center">
-  <em>Estudiante de 6to ciclo de la carrera de Ingeniería de Sistemas de Información en la UPC 🌼<br>
+  <em>Estudiante de 7mo ciclo de la carrera de Ingeniería de Sistemas de Información en la UPC 🌼<br>
   Me gusta mucho el diseño y crear cosas bonitas con código ✨</em>
 </p>
 
